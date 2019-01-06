@@ -1,0 +1,22 @@
+{
+  "name": "JMSegmentedView",
+  "version": "0.1.0",
+  "summary": "A short description of JMSegmentedView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gao5822/JMSegmentedView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gao5822": "Jim@guojiang.tv"
+  },
+  "source": {
+    "git": "https://github.com/gao5822/JMSegmentedView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JMSegmentedView/Classes/**/*"
+}

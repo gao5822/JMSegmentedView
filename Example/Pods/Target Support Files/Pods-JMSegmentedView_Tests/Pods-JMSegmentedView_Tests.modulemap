@@ -1,0 +1,6 @@
+framework module Pods_JMSegmentedView_Tests {
+  umbrella header "Pods-JMSegmentedView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

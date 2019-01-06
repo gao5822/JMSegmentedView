@@ -1,0 +1,6 @@
+framework module JMSegmentedView {
+  umbrella header "JMSegmentedView-umbrella.h"
+
+  export *
+  module * { export * }
+}

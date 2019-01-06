@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JMSegmentedView (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JMSegmentedView (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  JMSegmentedView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JMSegmentedView: fba42b47caa681cb95c557d7a27e4f2eb5aa7c48
+
+PODFILE CHECKSUM: ca235c569ed660a87865be32a8f6d1846b4893d6
+
+COCOAPODS: 1.5.3

@@ -37,10 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		11F60AD3348BBB4CA7B60A4F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		11F60AD3348BBB4CA7B60A4F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		157080DFA934EFB824944082 /* Pods-JMSegmentedView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMSegmentedView_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-JMSegmentedView_Example/Pods-JMSegmentedView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		2939437077E17ED91B9D8779 /* Pods_JMSegmentedView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JMSegmentedView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		55D1D50763A7E87D3D6B5A72 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		55D1D50763A7E87D3D6B5A72 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* JMSegmentedView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JMSegmentedView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -62,7 +62,7 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		9A5E8137E39FD0B80396ACC6 /* JMSegmentedView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = JMSegmentedView.podspec; path = ../JMSegmentedView.podspec; sourceTree = "<group>"; };
+		9A5E8137E39FD0B80396ACC6 /* JMSegmentedView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JMSegmentedView.podspec; path = ../JMSegmentedView.podspec; sourceTree = "<group>"; };
 		B770AD086FF377B9811F3694 /* Pods-JMSegmentedView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMSegmentedView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-JMSegmentedView_Tests/Pods-JMSegmentedView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		C5BD25C8BC6B556382023D9F /* Pods-JMSegmentedView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMSegmentedView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JMSegmentedView_Tests/Pods-JMSegmentedView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		EBB74CEE6831DE6BA87E420F /* Pods_JMSegmentedView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JMSegmentedView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };

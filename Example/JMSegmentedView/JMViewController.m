@@ -7,6 +7,7 @@
 //
 
 #import "JMViewController.h"
+#import "JMSegmentedView.h"
 
 @interface JMViewController ()
 
@@ -17,6 +18,11 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    NSArray *titles = @[@"首页",@"发现",@"社区",@"我的"];
+    JMSegmentedView *segView = [[JMSegmentedView alloc]initWithFrame:CGRectMake(0, 100, self.view.bounds.size.width, 45) WithItemTitles:titles SelectCallBack:^(NSInteger index) {
+        NSLog(@"点击了%ld",index);
+    }];
+    [self.view addSubview:segView];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
